@@ -29,7 +29,7 @@ collections:
         name: "tags"
         multiple: true
         create: true
-        options: ["Tags", "created", "from", "config.yml"]
+        options: ["alluvione", "romagna", "forli", "cesena", "rimini", "ravenna", "faenza", "lugo", "russi", "conselice"]
   - label: "Settings"
     name: "settings"
     editor:
