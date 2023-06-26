@@ -1,6 +1,6 @@
 ---
 title: Assemblea
-description: Dopo oltre un mese dalla visita del Presidente del Consiglio Giorgia Meloni nelle zone dell'alluvione non è ancora stato firmato il decreto con i primi fondi e non è stato ancora nominato il commissario.
+description: Dopo quaranta giorni il primo consiglio comunale, all'ordine del giorno, all'ultimo punto "Evento Alluvionale  16-17 Maggio 2023 informazioni e discussioni".
 author: gaddoz
 date: 2023-06-26
 tags:
@@ -9,5 +9,7 @@ tags:
 ---
 
 ![alt](/static/img/2023-06-26-assemblea.jpg "assemblea")
+
+Dopo quaranta giorni arriva il primo consiglio comunale con all' ordine del giorno, all'ultimo punto, "Evento Alluvionale 16-17 Maggio 2023 informazioni e discussioni". [Verificare per credere](https://www.comune.forli.fc.it/servizi/notizie/notizie_fase02.aspx?ID=82143).
 
 Ci troviamo in Piazza Saffi a Forlì alle 18 per inviare un messaggio alle amministrazioni.
