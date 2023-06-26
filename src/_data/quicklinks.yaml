@@ -1,14 +1,7 @@
----
 links:
-  - title: Netlify CMS
-    url: "https://www.netlifycms.org/"
-    desc: Open source content management for your Git workflow
-  - title: Eleventy
-    url: "https://www.11ty.dev/"
-    desc: Eleventy is a simpler static site generator.
-  - title: Alpine.js
-    url: "https://github.com/alpinejs/alpine"
-    desc: A minimal framework for composing JavaScript behavior in your markup.
-  - title: Tailwind CSS
-    url: "https://tailwindcss.com/"
-    desc: A utility-first CSS framework for rapidly building custom designs.
+  - title: Cane Allegro
+    url: https://www.gofundme.com/f/aiutiamo-il-cane-allegro-a-stare-in-vita
+    desc: Go Fund Me per Cane Allegro Forli
+  - title: Natura Miele
+    url: https://www.gofundme.com/f/aiuto-per-le-migliaia-di-api-soffocate-nel-fango
+    desc: Go Fund Me per Natura Miele
