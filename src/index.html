@@ -36,9 +36,11 @@ path: home
                 {% endif %}
             </a>
         </h2>
-        <img href="{{ post.url | url }}"
-              src="{{ post.data.featured }}" 
-              class="border rounded object-fill h-48 w-96"/>
+        <a href="{{ post.url | url }}" title="{{ post.data.title }}">
+          <img alt="{{ post.data.title }}"
+                src="{{ post.data.featured }}" 
+                class="border rounded object-fill h-48 w-96"/>
+        </a>
     </article>
   {% endfor %}
   </div>  
