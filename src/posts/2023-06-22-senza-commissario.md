@@ -4,6 +4,7 @@ description: Dopo oltre un mese dalla visita del Presidente del Consiglio Giorgi
 author: gaddoz
 date: 2023-06-22
 tags:
+  - post
   - alluvione
   - meloni
 ---

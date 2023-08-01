@@ -4,6 +4,7 @@ description: Inutile pulire i fossi a monte se quelli a valle sono messi cosi.
 author: gaddoz
 date: 2023-06-23
 tags:
+  - post
   - alluvione
   - meloni
   - romagna

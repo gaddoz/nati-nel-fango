@@ -4,6 +4,7 @@ description: Dopo tanti post con messaggi positivi di ripartenza, con tante bell
 author: gaddoz
 date: 2023-06-24
 tags:
+  - post
   - alluvione
   - meloni
   - romagna

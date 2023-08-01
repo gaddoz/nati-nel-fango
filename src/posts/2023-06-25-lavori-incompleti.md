@@ -4,6 +4,7 @@ description: Dopo qualche giorno di lavori sul Rio Cosina il cantiere è stato a
 author: gaddoz
 date: 2023-06-25
 tags:
+  - post
   - alluvione
   - meloni
 ---

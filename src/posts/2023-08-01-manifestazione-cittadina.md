@@ -5,6 +5,7 @@ author: fango-boy
 date: 2023-08-01
 featured: /static/img/2023-08-01-manifestazione-cittadina.jpg
 tags:
+  - post
   - alluvione
   - featured
 ---

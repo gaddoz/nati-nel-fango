@@ -5,6 +5,7 @@ author: gaddoz
 date: 2023-06-26
 featured: /static/img/2023-06-26-assemblea.jpg
 tags:
+  - post
   - alluvione
   - meloni
   - featured

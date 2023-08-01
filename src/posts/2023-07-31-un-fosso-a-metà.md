@@ -5,6 +5,7 @@ author: fango-boy
 date: 2023-07-31T21:37:54.102Z
 featured: /static/img/fosso-a-meta-1.jpg
 tags:
+  - post
   - forli
   - featured
 ---
