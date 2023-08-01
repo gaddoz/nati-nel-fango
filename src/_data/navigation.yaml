@@ -1,3 +1,5 @@
 items:
   - text: Notizie
     url: /blog
+  - text: Mappa
+    url: /mappa

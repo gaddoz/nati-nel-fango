@@ -3,10 +3,12 @@ title: Lavori Incompleti
 description: Dopo qualche giorno di lavori sul Rio Cosina il cantiere è stato abbandonato e quello che vedete è lo stato attuale del Rio, aperto sul lato di Faenza per chiudere il lato di Forli dove la voragine è tale e quale al giorno dopo l'alluvione.
 author: gaddoz
 date: 2023-06-25
+geo: "44.263267, 11.982168"
 tags:
   - post
   - alluvione
   - meloni
+  - mappa
 ---
 
 ![alt](/static/img/2023-06-25-rio-cosina.jpg "lavori incompleti")
