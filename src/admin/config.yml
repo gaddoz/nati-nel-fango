@@ -29,7 +29,8 @@ collections:
         name: "tags"
         multiple: true
         create: true
-        options: ["featured", "segnalazioni", "notizie", "alluvione", "romagna", "forli", "cesena", "rimini", "ravenna", "faenza", "lugo", "russi", "conselice"]
+        options: ["featured", "mappa", "segnalazioni", "notizie", "alluvione", "romagna", "forli", "cesena", "rimini", "ravenna", "faenza", "lugo", "russi", "conselice"]
+      - { label: "Geo info (lat, lon)", name: "geo", widget: "string" }
   - label: "Settings"
     name: "settings"
     editor:
