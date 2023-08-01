@@ -1,0 +1,30 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:v1="http://ws.gbbper.priv/testata/v1" xmlns:v11="http://ws.gbbper.priv.schema/fidi/v1" xmlns:sec="http://ws.gbbper.priv/security">
+   <soapenv:Header>
+      <v1:testata>
+      </v1:testata>
+   </soapenv:Header>
+   <soapenv:Body>
+      <v11:recuperaDDSFW>
+         <sec:SECURITY>
+            <sec:BANCA>05387</sec:BANCA>
+            <sec:UTENTE>u85494</sec:UTENTE>
+            <sec:TERMINALE>FIDI</sec:TERMINALE>
+            <sec:APPLICAZIONE>FIDIWEB</sec:APPLICAZIONE>
+            <sec:TOKEN/>
+            <sec:IDCED>10435</sec:IDCED>
+            <sec:IP>172.28.138.17</sec:IP>
+         </sec:SECURITY>
+         <v11:abi>05387</v11:abi>
+         <v11:numeroPratica>50503222</v11:numeroPratica>
+         <v11:numeroElementiLineeDaElaborare>1</v11:numeroElementiLineeDaElaborare>
+         <v11:listaLineeDaElaborare>
+            <!--1 or more repetitions:-->
+            <v11:lineaDaElaborare>
+               <v11:suffisso>1</v11:suffisso>
+            </v11:lineaDaElaborare>
+         </v11:listaLineeDaElaborare>
+         <!--Optional:-->
+         <v11:flagSpeseComunicazione>SI</v11:flagSpeseComunicazione>
+      </v11:recuperaDDSFW>
+   </soapenv:Body>
+</soapenv:Envelope>

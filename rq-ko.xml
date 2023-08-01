@@ -1,0 +1,36 @@
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+<soap:Header>
+<ns2:testata xmlns:ns5="http://ws.gbbper.priv.schema/fidi/v1" xmlns:ns4="http://ws.gbbper.priv/security" xmlns:ns3="http://fault.common.schema.bper.it/v1" xmlns:ns2="http://ws.gbbper.priv/testata/v1" xmlns="http://ws.gbbper.priv.schema/peffido/v1">
+<ns2:abi>05387</ns2:abi>
+<ns2:branchCode>0071</ns2:branchCode>
+<ns2:channel>FIDI</ns2:channel>
+<ns2:userId>810073</ns2:userId>
+<ns2:terminal>FIDI</ns2:terminal>
+<ns2:customerId>170</ns2:customerId>
+<ns2:sessionId>0f7ff004-876f-4427-a084-</ns2:sessionId>
+<ns2:operationId>62b217a5-b68d-4bd7-a14b-</ns2:operationId>
+<ns2:sysCaller>172.28.138.17</ns2:sysCaller>
+</ns2:testata>
+</soap:Header>
+<soap:Body>
+<ns5:recuperaDDSFW xmlns="http://ws.gbbper.priv.schema/peffido/v1" xmlns:ns2="http://ws.gbbper.priv/testata/v1" xmlns:ns3="http://fault.common.schema.bper.it/v1" xmlns:ns4="http://ws.gbbper.priv/security" xmlns:ns5="http://ws.gbbper.priv.schema/fidi/v1">
+<ns4:SECURITY>
+<ns4:BANCA>05387</ns4:BANCA>
+<ns4:UTENTE>810073</ns4:UTENTE>
+<ns4:TERMINALE>FIDI</ns4:TERMINALE>
+<ns4:APPLICAZIONE>FIDI</ns4:APPLICAZIONE>
+<ns4:TOKEN/>
+<ns4:IDCED>170</ns4:IDCED>
+<ns4:IP>172.28.138.17</ns4:IP>
+</ns4:SECURITY>
+<ns5:abi>05387</ns5:abi>
+<ns5:numeroPratica>050522781</ns5:numeroPratica>
+<ns5:numeroElementiLineeDaElaborare>1</ns5:numeroElementiLineeDaElaborare>
+<ns5:listaLineeDaElaborare>
+<ns5:lineaDaElaborare>
+<ns5:suffisso>1</ns5:suffisso>
+</ns5:lineaDaElaborare>
+</ns5:listaLineeDaElaborare>
+</ns5:recuperaDDSFW>
+</soap:Body>
+</soap:Envelope>

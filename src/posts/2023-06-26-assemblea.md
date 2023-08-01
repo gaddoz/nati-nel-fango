@@ -3,9 +3,11 @@ title: Assemblea
 description: Dopo quaranta giorni il primo consiglio comunale, all'ordine del giorno, all'ultimo punto "Evento Alluvionale  16-17 Maggio 2023 informazioni e discussioni".
 author: gaddoz
 date: 2023-06-26
+featured: /static/img/2023-06-26-assemblea.jpg
 tags:
   - alluvione
   - meloni
+  - featured
 ---
 
 ![alt](/static/img/2023-06-26-assemblea.jpg "assemblea")
